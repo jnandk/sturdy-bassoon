@@ -1,2 +1,5 @@
 new git file
 Welcome to my new private git remote repo!!!
+In Git, a branch is a new/separate version of the main repository.
+
+Let's say you have a large project, and you need to update the design on it.
